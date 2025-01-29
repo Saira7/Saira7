@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on self managed HPC framework using kubernetes clusters.<br>I'm learning data science, artificial intelligence, deployment tools like docker, kubernetes <br>Fun fact about me is I sleep a lot and don't like coffee,tea and extra spicy meals.<br>Ask me about codes and life management and self care
+Currently working on self managed HPC framework using kubernetes clusters.<br>I'm learning data science, artificial intelligence, deployment tools like docker, kubernetes <br>Fun fact about me is I sleep a lot and don't like coffee,tea and extra spicy meals.<br>Ask me about codes and books
 
 
 ## 🌐 Socials:
